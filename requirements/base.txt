@@ -1,0 +1,8 @@
+# Dépendances de base requises pour le fonctionnement minimal
+openai-whisper>=20231117
+yt-dlp>=2023.12.30
+ffmpeg-python>=0.2.0
+typing-extensions>=4.9.0
+numpy>=1.26.0
+torch>=2.1.0
+tqdm>=4.66.0 

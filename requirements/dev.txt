@@ -1,0 +1,18 @@
+# Dépendances pour le développement
+
+# Tests
+pytest>=7.4.0
+pytest-cov>=4.1.0
+
+# Linting et formatage
+black>=23.12.0
+flake8>=7.0.0
+isort>=5.13.0
+
+# Documentation
+sphinx>=7.2.0
+sphinx-rtd-theme>=2.0.0
+
+# Outils de développement
+ipython>=8.12.0
+jupyter>=1.0.0 

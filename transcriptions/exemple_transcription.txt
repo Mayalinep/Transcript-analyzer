@@ -1,0 +1,31 @@
+Voici un exemple de transcription à analyser.
+
+Introduction
+------------
+Ce texte est un exemple qui montre comment l'analyseur de transcriptions fonctionne.
+Il va être analysé et structuré automatiquement en différentes sections.
+
+Installation
+-----------
+Pour installer le programme, suivez les étapes du README.
+Vous aurez besoin de Python et de quelques dépendances.
+
+Fonctionnalités
+--------------
+Le programme propose plusieurs fonctionnalités :
+- Analyse de texte
+- Génération de résumés
+- Extraction de sections
+- Support multilingue
+
+Utilisation
+----------
+L'utilisation est très simple :
+1. Créez un fichier de transcription
+2. Lancez l'analyse avec la commande appropriée
+3. Consultez le résultat dans le fichier Markdown généré
+
+Conclusion
+---------
+Cet exemple montre les capacités basiques du programme.
+N'hésitez pas à tester avec vos propres transcriptions ! 

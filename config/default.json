@@ -1,0 +1,25 @@
+{
+    "download": {
+        "format": "wav",
+        "quality": "192"
+    },
+    "transcription": {
+        "model": "base",
+        "language": "fr"
+    },
+    "analysis": {
+        "default_analyzer": "basic",
+        "max_summary_length": 1500,
+        "sections": [
+            "Introduction",
+            "Installation et Configuration",
+            "Fonctionnalités",
+            "Utilisation",
+            "Conclusion"
+        ]
+    },
+    "output": {
+        "downloads_dir": "downloads",
+        "transcriptions_dir": "transcriptions"
+    }
+} 

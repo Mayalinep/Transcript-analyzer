@@ -1,0 +1,10 @@
+# Dépendances optionnelles pour les fonctionnalités avancées
+
+# Pour l'analyseur OpenAI
+openai>=1.0.0
+
+# Pour l'analyseur Hugging Face
+transformers>=4.37.0
+torch>=2.1.0
+sentencepiece>=0.1.99  # Requis pour certains modèles
+accelerate>=0.27.0     # Pour l'optimisation des performances 
